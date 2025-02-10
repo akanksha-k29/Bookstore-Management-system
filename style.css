@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.bannerHeading
+	{
+		font-family: consolas;
+		color: red;
+		
+		font-size: 50px;
+	
+	}
